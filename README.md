@@ -1,5 +1,5 @@
 # F1 Clash Game Analysis
-# Pai Tá On Club
+# Race Legends
 
 
 This repository provides data analysis tools to optimize player performance in the F1 Clash game. Utilizing the power of Python and Pandas, our scripts analyze various in-game parameters to give players the edge they need to win.
